@@ -1,2 +1,4 @@
 # hello-world
-débuter ici
+
+hi! i am new here, it is kind of funny!
+
